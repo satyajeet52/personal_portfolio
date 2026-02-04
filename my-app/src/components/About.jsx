@@ -23,7 +23,7 @@ const About = () => {
                 <div className="stat-label">Projects Built</div>
               </div>
               <div className="stat-item">
-                <div className="stat-number">2</div>
+                <div className="stat-number">1</div>
                 <div className="stat-label">  Internship </div>
               </div>
               <div className="stat-item">

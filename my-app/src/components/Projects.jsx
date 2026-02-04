@@ -50,7 +50,7 @@ const Projects = () => {
         gradient: "gradient-2",
       },
       {
-        title: "Talent IQ – Interview Platform",
+        title: "video calling platform",
         description:
           "A MERN-based interview platform with real-time video calling, Monaco code editor, and automated test execution.",
         tech: [
@@ -66,10 +66,10 @@ const Projects = () => {
         gradient: "gradient-1",
       },
       {
-        title: "MERN Auth System",
+        title: "QUICK AI",
         description:
-          "Authentication system with login, registration, and secure JWT-based sessions.",
-        tech: ["React", "Node.js", "Express", "MongoDB", "JWT"],
+          "QUICK AI is a platform where you can generate AI  images ask Questions and get content quickly and efficiently.",
+        tech: ["Vite", "React", "TypeScript", "Tailwind CSS", "Supabase", "REST APIs"],
         gradient: "gradient-3",
       },
       {
